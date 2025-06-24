@@ -107,8 +107,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "About us",
+            "content": "<p><strong>From everyday essentials to statement pieces, Squzzi is here to dress your story — with love, style, and detail that matters.</strong></p>",
             "enable_follow_on_shop": true
           }
         }
