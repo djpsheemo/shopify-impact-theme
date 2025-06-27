@@ -171,7 +171,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "clothing",
+            "image": "shopify://shop_images/4b12a51e0c4d266cef2096991a231ad9.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -185,7 +186,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "jewelry",
+            "image": "shopify://shop_images/choker-with-bead.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -222,7 +224,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "bags",
         "products": [],
         "full_width": true,
         "stack_products": false,
