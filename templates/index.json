@@ -469,14 +469,25 @@
             "logo_width": 100,
             "author": "Sophia L. – New York",
             "content": "Didn’t expect to love it this much. It’s simple but feels really well made. I’ve had a few people ask me where it’s from.",
-            "show_rating": false,
-            "rating": 4
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_RkiN6T": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Amelia R. – Berlin",
+            "content": "I’ve been carrying this bag almost every day and I honestly love it. It goes with everything and still looks brand new.",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_RkiN6T"
       ],
       "settings": {
         "full_width": true,
