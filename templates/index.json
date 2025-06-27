@@ -492,13 +492,24 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_UWbLRL": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Mia T. – Stockholm",
+            "content": "Honestly? I didn’t expect the quality to be this good. It feels solid, looks stylish, and fits all my stuff without being bulky.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1",
         "quote_RkiN6T",
-        "quote_BaTeAQ"
+        "quote_BaTeAQ",
+        "quote_UWbLRL"
       ],
       "settings": {
         "full_width": true,
