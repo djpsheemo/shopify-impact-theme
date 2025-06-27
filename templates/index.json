@@ -173,21 +173,6 @@
         "heading_gradient": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Designed for her.",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -256,6 +241,21 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Designed for her.",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "featured-collection": {
@@ -939,8 +939,8 @@
     "slideshow",
     "impact_text_DtXVpF",
     "image-link-blocks",
-    "scrolling-text",
     "collection-list",
+    "scrolling-text",
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
