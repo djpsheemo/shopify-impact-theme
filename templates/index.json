@@ -457,10 +457,10 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "author": "Emily J. – London",
+            "content": "I’m not usually someone who writes reviews, but this bag deserves it. It’s exactly what I’ve been looking for — chic and practical.",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
@@ -478,7 +478,6 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
