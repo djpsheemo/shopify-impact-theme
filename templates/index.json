@@ -482,12 +482,23 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_BaTeAQ": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Zoe B. – Amsterdam",
+            "content": "Such a lovely piece. I like how minimal it is, but still stands out. Works for everyday wear or dressing up a bit.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1",
-        "quote_RkiN6T"
+        "quote_RkiN6T",
+        "quote_BaTeAQ"
       ],
       "settings": {
         "full_width": true,
