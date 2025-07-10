@@ -48,6 +48,11 @@
         "type": "shopify://apps/wizio-bundle/blocks/app-embed/8331d8b5-f4ba-4f29-9cd9-62bbb3b17bde",
         "disabled": false,
         "settings": {}
+      },
+      "11158620501380966596": {
+        "type": "shopify://apps/trustz/blocks/trustz/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
