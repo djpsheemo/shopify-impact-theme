@@ -86,8 +86,8 @@
             "icon_position": "aligned",
             "icon": "picto-timer",
             "icon_width": 32,
-            "title": "HURRY UP",
-            "content": "<h5><strong>Before we'll sell out again!</strong></h5>",
+            "title": "Order Now",
+            "content": "<h5><strong>Before we run out of our stock again</strong></h5>",
             "background": "#f2eaea",
             "text_color": "#d22727"
           }
