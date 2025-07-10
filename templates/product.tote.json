@@ -102,6 +102,10 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "trustz_trust_badge_cKkEHJ": {
+          "type": "shopify://apps/trustz/blocks/trust-badge/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+          "settings": {}
         }
       },
       "block_order": [
@@ -117,7 +121,8 @@
         "quantity_selector",
         "offer_8FR38E",
         "offer_z6hmWr",
-        "buy_buttons"
+        "buy_buttons",
+        "trustz_trust_badge_cKkEHJ"
       ],
       "settings": {
         "full_width": true,
