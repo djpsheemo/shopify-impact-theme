@@ -79,6 +79,19 @@
             "text_color": "#00a341"
           }
         },
+        "offer_z6hmWr": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-timer",
+            "icon_width": 24,
+            "title": "HURRY UP",
+            "content": "<h4>Before we'll sell out again!</h4>",
+            "background": "#f2eaea",
+            "text_color": "#d22727"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -103,6 +116,7 @@
         "variant_picker",
         "quantity_selector",
         "offer_8FR38E",
+        "offer_z6hmWr",
         "buy_buttons"
       ],
       "settings": {
