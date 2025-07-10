@@ -46,12 +46,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -73,7 +67,7 @@
             "icon_position": "aligned",
             "icon": "picto-leaf",
             "icon_width": 32,
-            "title": "Shipping",
+            "title": "Natural",
             "content": "<h5><strong>Made out of vegan suede leather</strong></h5>",
             "background": "#eaf2ed",
             "text_color": "#00a341"
@@ -95,12 +89,18 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
           }
         },
         "trustz_trust_badge_cKkEHJ": {
@@ -116,12 +116,12 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "offer_8FR38E",
         "offer_z6hmWr",
         "buy_buttons",
+        "description",
         "trustz_trust_badge_cKkEHJ"
       ],
       "settings": {
