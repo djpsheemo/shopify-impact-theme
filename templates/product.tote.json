@@ -305,9 +305,14 @@
         "vdo_product_video_feed_product_slider_MyiT3T": {
           "type": "shopify://apps/vdo-product-video-feed/blocks/product_slider/1e74be18-998c-485a-b3b8-24516a63388a",
           "settings": {
-            "section_heading": "VDO Product Video Feed Free",
+            "section_heading": "Don't Trust Us? Trust Other People!",
             "video_height": 280,
-            "gap_between_videos": 15
+            "gap_between_videos": 15,
+            "video_url1": "shopify://files/videos/snaptik_7491481979704118558.mp4",
+            "video_url2": "shopify://files/videos/snaptik_7480953406115417387.mp4",
+            "video_url3": "shopify://files/videos/snaptik_7455828031827905835.mp4",
+            "video_url4": "shopify://files/videos/snaptik_7406022000415624478.mp4",
+            "video_url5": "shopify://files/videos/snaptik_7444278086926880046.mp4"
           }
         }
       },
