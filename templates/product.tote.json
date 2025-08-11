@@ -124,6 +124,13 @@
             "title": "Our Guarantee",
             "content": "<p>If you're not 100% satisfied within the first 90 days, just send it back to us and we'll give you a full refund.</p><p>No need to worry about the return shipping - we've got you covered!</p>"
           }
+        },
+        "collapsible_text_3LgLBU": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping Info",
+            "content": "<p>We offer fast and reliable shipping on all orders. You can expect to receive it within 4-5 business if you're from United Kingdom and 3-4 business days if you're from United States.</p>"
+          }
         }
       },
       "block_order": [
@@ -142,7 +149,8 @@
         "description",
         "collapsible_text_dPKxpL",
         "collapsible_text_zrkBwa",
-        "collapsible_text_anXUB3"
+        "collapsible_text_anXUB3",
+        "collapsible_text_3LgLBU"
       ],
       "settings": {
         "full_width": true,
