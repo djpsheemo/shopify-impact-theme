@@ -1,0 +1,55 @@
+{% comment %}
+  Adjusted: Removed invalid `video_url` setting and replaced with `url` for MP4 handling via Shopify Files or external link.
+{% endcomment %}
+
+{% liquid
+  assign sid = section.id
+%}
+
+<section id="ugc-video-slider-{{ sid }}" class="ugcvs-section">
+  <!-- Content unchanged from before -->
+</section>
+
+{% schema %}
+{
+  "name": "UGC Video Slider",
+  "settings": [
+    { "type": "text", "id": "heading", "label": "Heading", "default": "What people are posting" },
+    { "type": "text", "id": "subheading", "label": "Subheading", "default": "Real customers. Real results." },
+    { "type": "checkbox", "id": "show_arrows", "label": "Show arrows", "default": true },
+    { "type": "checkbox", "id": "show_dots", "label": "Show dots", "default": true },
+    { "type": "checkbox", "id": "auto_rotate", "label": "Auto-rotate slides", "default": true },
+    { "type": "range", "id": "rotate_interval", "min": 3000, "max": 9000, "step": 500, "unit": "ms", "label": "Auto-rotate interval", "default": 6000 },
+    { "type": "checkbox", "id": "autoplay_videos", "label": "Autoplay videos (muted)", "default": true },
+    { "type": "checkbox", "id": "show_controls", "label": "Show native video controls", "default": false },
+    { "type": "range", "id": "video_height", "min": 40, "max": 90, "step": 1, "unit": "vh", "label": "Video height (viewport)", "default": 70 },
+    { "type": "range", "id": "corner_radius", "min": 0, "max": 36, "step": 2, "unit": "px", "label": "Corner radius", "default": 16 },
+    { "type": "color", "id": "background", "label": "Background", "default": "#ffffff00" },
+    { "type": "color", "id": "text_color", "label": "Text color", "default": "#111111" },
+    { "type": "number", "id": "max_width", "label": "Max content width (px)", "default": 1400 }
+  ],
+  "blocks": [
+    {
+      "type": "ugc_video",
+      "name": "UGC Video",
+      "settings": [
+        { "type": "url", "id": "video_url", "label": "Video MP4 URL", "info": "Paste a direct .mp4 link from Shopify Files or external CDN." },
+        { "type": "image_picker", "id": "poster", "label": "Poster image (optional)" },
+        { "type": "text", "id": "caption", "label": "Caption", "default": "Loved it! ✨" },
+        { "type": "text", "id": "handle", "label": "Creator handle", "default": "@customer" }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "UGC Video Slider",
+      "category": "Media",
+      "blocks": [
+        { "type": "ugc_video" },
+        { "type": "ugc_video" },
+        { "type": "ugc_video" }
+      ]
+    }
+  ]
+}
+{% endschema %}
