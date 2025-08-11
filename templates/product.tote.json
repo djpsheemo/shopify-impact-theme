@@ -68,10 +68,10 @@
             "icon_position": "aligned",
             "icon": "picto-leaf",
             "icon_width": 32,
-            "title": "Natural",
-            "content": "<h5><strong>Made out of vegan suede leather</strong></h5>",
+            "title": "Smooth Skin",
+            "content": "<h5><strong>Authentic Korean Skincare Routine</strong></h5>",
             "background": "#eaf2ed",
-            "text_color": "#00a341"
+            "text_color": "#4b90b3"
           }
         },
         "offer_z6hmWr": {
@@ -82,7 +82,7 @@
             "icon": "picto-timer",
             "icon_width": 32,
             "title": "Order Now",
-            "content": "<h5><strong>Before we run out of our stock again</strong></h5>",
+            "content": "<h5><strong>Before we run out of our stock again!</strong></h5>",
             "background": "#f2eaea",
             "text_color": "#d22727"
           }
