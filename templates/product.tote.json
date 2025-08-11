@@ -332,6 +332,37 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "images_with_text_scrolling_my8dPD": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_JQJGgJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/0529-BELIF2537_EDIT_-_V2_54859d90-b245-416b-b4d7-91d5d12f580c.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Why you’ll fall in love:",
+            "content": "<ul><li><strong>Instant refresh</strong> that makes you look awake-even when you don’t feel it.</li></ul><p></p><ul><li><strong>Hydration that lasts all day</strong>, with a lightweight, non-greasy gel that plays well with makeup or your favorite concealer.<br/></li><li><strong>On-the-go elegance-</strong>de-puffing, plumping, and brightening—seen in as little as two weeks <a href=\"https://www.ulta.com/p/aqua-bomb-depuffing-eye-gel-with-caffeine-hyaluronic-acid-pimprod2048708?sku=2629445&utm_source=chatgpt.com\" target=\"_blank\">Glamour+15Ulta Beauty+15Skin Cupid+15</a><a href=\"https://byherbeauty.co/products/byher-aqua-hydrating-eye-gel?srsltid=AfmBOopSAaoS6k_N922CWUqRYq5m4KlkpHf7tw4zFyKRTPULW0lvQM3R&utm_source=chatgpt.com\" target=\"_blank\">Sephora+10ByHer Beauty+10Amazon+10</a>.<br/></li><li><strong>Clinically-backed results</strong>-de-puffing, plumping, and brightening-seen in as little as two weeks<br/></li></ul><p><strong>Try it for 30 mornings</strong>-and say goodbye to under-eye fatigue. Let every glance reflect the vibrant, confident woman you are.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_JQJGgJ"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -340,6 +371,7 @@
     "slideshow_9xWawR",
     "before_after_image_rBDgYE",
     "images_with_text_scrolling_4HKffJ",
-    "17549228138a3631b9"
+    "17549228138a3631b9",
+    "images_with_text_scrolling_my8dPD"
   ]
 }
