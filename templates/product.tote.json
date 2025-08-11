@@ -170,6 +170,37 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_UKYgJJ": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_eHnMNd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/0811-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Bright Eyes, Busy Lives",
+            "content": "<p>You’re running on little sleep—but your eyes don’t have to show it. Our <strong>Squzzi™ Korean Undereye Gel</strong> delivers dewy hydration, targeted brightening, and instant relief in one luxurious glide</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_eHnMNd"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "slideshow_9xWawR": {
       "type": "slideshow",
       "blocks": {
@@ -208,13 +239,14 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     }
   },
   "order": [
     "main",
+    "images_with_text_scrolling_UKYgJJ",
     "slideshow_9xWawR"
   ]
 }
