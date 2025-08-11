@@ -267,12 +267,44 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "images_with_text_scrolling_4HKffJ": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_9XHALC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/0811-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Soft, Cooling Moments, Whenever You Need Them.",
+            "content": "<p>The ceramic tip chills on contact—like a mini spa treatment that boosts microcirculation and energizes your look—even when you're running on fumes</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9XHALC"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "images_with_text_scrolling_UKYgJJ",
     "slideshow_9xWawR",
-    "before_after_image_rBDgYE"
+    "before_after_image_rBDgYE",
+    "images_with_text_scrolling_4HKffJ"
   ]
 }
