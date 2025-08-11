@@ -201,6 +201,31 @@
         "heading_gradient": ""
       }
     },
+    "before_after_image_rBDgYE": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Say Goodbye to tired eyes!</p>",
+        "before_image": "shopify://shop_images/bfr_9ea1d8c4-7551-4348-aaff-cce2ba2cdfe4.png",
+        "after_image": "shopify://shop_images/aftr_ac090632-7ed7-4494-bfd9-4ee993778082.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 51,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "slideshow_9xWawR": {
       "type": "slideshow",
       "blocks": {
@@ -247,6 +272,7 @@
   "order": [
     "main",
     "images_with_text_scrolling_UKYgJJ",
+    "before_after_image_rBDgYE",
     "slideshow_9xWawR"
   ]
 }
