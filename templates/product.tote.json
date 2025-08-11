@@ -117,6 +117,13 @@
             "title": "Ingredients",
             "content": "<p>Water, Propanediol, Glycerin, 1,2-hexanediol, Niacinamide, Panthenol, Sodium Carboxymethyl Starch, Butylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Betaine, Tromethamine, Sodium Polyacrylate, Allantoin, Lactobacillus/Soybean Ferment Extract, Melissa Officinalis Flower/Leaf/Stem Water*, Rosmarinus Officinalis (Rosemary) Leaf Water*, Eucalyptus Globulus Leaf Extract*, Mentha Rotundifolia Leaf Extract*, Rosa Canina Fruit Extract*, Thymus Vulgaris (Thyme) Leaf Extract*, Saccharomyces/Potato Extract Ferment Filtrate, Polyglyceryl-10 Stearate, Sodium Hyaluronate, Saccharomyces/Barley Seed Ferment Filtrate, Polyglyceryl-10 Oleate, Chondrus Crispus Extract, Sodium Gluconate, Adenosine, Caffeine, Methyl Diisopropyl Propionamide, Cholesterol, Glutathione, Hydrogenated Lecithin, Alcohol Denat., Ascorbyl Tetraisopalmitate, Squalane, Desamido Collagen, Citrus Aurantium Dulcis (Orange) Peel Oil+, Citrus Aurantifolia (Lime) Oil+, Pelargonium Graveolens Flower Oil+, Rosmarinus Officinalis (Rosemary) Leaf Oil+, Limonene, Citronellol, Geraniol, Citral, Linalool.<br/></p><p><em>If there is on-going or has been changes in the composition of the product, the ingredients in the products may differ from what is stated on the page. In some cases, the page may also display a Korean ingredient list, in which case the ingredients are listed in a different order. Always check the latest ingredients directly on the packaging or contact our customer service.</em></p>"
           }
+        },
+        "collapsible_text_anXUB3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Our Guarantee",
+            "content": "<p>If you're not 100% satisfied within the first 90 days, just send it back to us and we'll give you a full refund.</p><p>No need to worry about the return shipping - we've got you covered!</p>"
+          }
         }
       },
       "block_order": [
@@ -134,7 +141,8 @@
         "buy_buttons",
         "description",
         "collapsible_text_dPKxpL",
-        "collapsible_text_zrkBwa"
+        "collapsible_text_zrkBwa",
+        "collapsible_text_anXUB3"
       ],
       "settings": {
         "full_width": true,
