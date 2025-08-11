@@ -180,7 +180,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Bright Eyes, Busy Lives",
-            "content": "<p>You’re running on little sleep-but your eyes don’t have to show it. Our <strong>Squzzi™ Korean Undereye Gel</strong> delivers dewy hydration, targeted brightening, and instant relief in one luxurious glide</p>"
+            "content": "<p>You’re running on little sleep—but your eyes don’t have to show it. Our <strong>Squzzi™ Korean Undereye Gel</strong> delivers dewy hydration, targeted brightening, and instant relief in one luxurious glide</p>"
           }
         }
       },
@@ -363,6 +363,48 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "slideshow_e6gdUK": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rkfwQ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dbe35277-0c92-4e5f-b345-a268dbca6716.__CR0_0_1464_600_PT0_SX1464_V1_83a6953b-c0e6-4fac-ac2a-0dcfd54eb7ef.jpg",
+            "mobile_image": "shopify://shop_images/dbe35277-0c92-4e5f-b345-a268dbca6716.__CR0_0_1464_600_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rkfwQ4"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
@@ -372,6 +414,7 @@
     "before_after_image_rBDgYE",
     "images_with_text_scrolling_4HKffJ",
     "17549228138a3631b9",
-    "images_with_text_scrolling_my8dPD"
+    "images_with_text_scrolling_my8dPD",
+    "slideshow_e6gdUK"
   ]
 }
