@@ -23,6 +23,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_f9R7ei": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .star-rating {\n    display: flex;\n    align-items: center;\n    font-size: 20px;\n    color: #f5c518; /* gold color */\n  }\n  .star-rating .stars {\n    display: flex;\n  }\n  .star-rating .reviews {\n    margin-left: 8px;\n    font-size: 16px;\n    color: #333;\n  }\n</style>\n\n<div class=\"star-rating\">\n  <div class=\"stars\">\n    <span>★</span>\n    <span>★</span>\n    <span>★</span>\n    <span>★</span>\n    <span style=\"position: relative;\">\n      <span style=\"color: #f5c518; position: absolute; width: 50%; overflow: hidden;\">★</span>\n      <span style=\"color: #ccc;\">★</span>\n    </span>\n  </div>\n  <div class=\"reviews\">(19,583)</div>\n</div>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -148,6 +154,7 @@
       "block_order": [
         "vendor",
         "title",
+        "liquid_f9R7ei",
         "badges",
         "price",
         "rating",
