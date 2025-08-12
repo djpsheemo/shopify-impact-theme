@@ -61,6 +61,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "liquid_EtFmDq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p style=\"font-size:14px; margin:0; padding:0; color:black;\">\n    <span style=\"height:8px; width:8px; background-color:#FF0000; border-radius:50%; display:inline-block; animation:blinking 1.5s infinite;\"></span>\n    <span style=\"color:#FF0000;\">Only 26</span> <span style=\"font-weight:bold;\">left at this price!</span></p>\n<style>\n@keyframes blinking {\n    0% { opacity: 1.0; }\n    50% { opacity: 0.0; }\n    100% { opacity: 1.0; }\n}\n</style>"
+          }
+        },
         "offer_8FR38E": {
           "type": "offer",
           "settings": {
@@ -149,6 +155,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
+        "liquid_EtFmDq",
         "offer_8FR38E",
         "offer_z6hmWr",
         "buy_buttons",
