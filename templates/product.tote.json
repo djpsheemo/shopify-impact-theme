@@ -65,6 +65,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "liquid_EtFmDq": {
@@ -354,6 +355,37 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "images_with_text_scrolling_my8dPD": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_JQJGgJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/testimonial.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Why you’ll fall in love!",
+            "content": "<ul><li><strong>Instant refresh</strong> that makes you look awake-even when you don’t feel it.</li></ul><p></p><ul><li><strong>Hydration that lasts all day</strong>, with a lightweight, non-greasy gel that plays well with makeup or your favorite concealer.</li></ul><p></p><ul><li><strong>On-the-go elegance</strong>, with a hygienic applicator that feels cool, clean, and indulgent.</li></ul><p></p><ul><li><strong>Clinically-backed results</strong>-de-puffing, plumping, and brightening-seen in as little as two weeks.<br/></li></ul><p><strong>Try it for 30 mornings</strong>-and say goodbye to under-eye fatigue. Let every glance reflect the vibrant, confident woman you are.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_JQJGgJ"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "#e7f3ff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "testimonials_p4QY3g": {
       "type": "testimonials",
       "blocks": {
@@ -415,37 +447,6 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
-      }
-    },
-    "images_with_text_scrolling_my8dPD": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_JQJGgJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/testimonial.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Why you’ll fall in love!",
-            "content": "<ul><li><strong>Instant refresh</strong> that makes you look awake-even when you don’t feel it.</li></ul><p></p><ul><li><strong>Hydration that lasts all day</strong>, with a lightweight, non-greasy gel that plays well with makeup or your favorite concealer.</li></ul><p></p><ul><li><strong>On-the-go elegance</strong>, with a hygienic applicator that feels cool, clean, and indulgent.</li></ul><p></p><ul><li><strong>Clinically-backed results</strong>-de-puffing, plumping, and brightening-seen in as little as two weeks.<br/></li></ul><p><strong>Try it for 30 mornings</strong>-and say goodbye to under-eye fatigue. Let every glance reflect the vibrant, confident woman you are.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_JQJGgJ"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "#e7f3ff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "slideshow_e6gdUK": {
