@@ -327,7 +327,7 @@
           "type": "shopify://apps/vdo-product-video-feed/blocks/product_slider/1e74be18-998c-485a-b3b8-24516a63388a",
           "settings": {
             "section_heading": "Don't Trust Us? Trust Other People!",
-            "video_height": 280,
+            "video_height": 350,
             "gap_between_videos": 15,
             "video_url1": "shopify://files/videos/snaptik_7491481979704118558.mp4",
             "video_url2": "shopify://files/videos/snaptik_7480953406115417387.mp4",
