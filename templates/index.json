@@ -362,6 +362,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "bags",
         "products": [],
@@ -449,6 +450,7 @@
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -597,7 +599,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Emily J. – London",
-            "content": "I’m not usually someone who writes reviews, but this bag deserves it. It’s exactly what I’ve been looking for — chic and practical.",
+            "content": "Feels like an instant nap for my eyes. I use it every morning before work and my puffiness is gone by the time I’m out the door",
             "show_rating": true,
             "rating": 5
           }
@@ -607,7 +609,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Sophia L. – New York",
-            "content": "Didn’t expect to love it this much. It’s simple but feels really well made. I’ve had a few people ask me where it’s from.",
+            "content": "By the time I’ve finished my second coffee, my eyes look totally refreshed. It’s now part of my morning routine.",
             "show_rating": true,
             "rating": 5
           }
@@ -617,7 +619,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Amelia R. – Berlin",
-            "content": "I’ve been carrying this bag almost every day and I honestly love it. It goes with everything and still looks brand new.",
+            "content": "So light and fresh, but it actually works. My under-eyes feel hydrated all day without any greasy feeling.",
             "show_rating": true,
             "rating": 5
           }
@@ -627,7 +629,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Zoe B. – Amsterdam",
-            "content": "Such a lovely piece. I like how minimal it is, but still stands out. Works for everyday wear or dressing up a bit.",
+            "content": "The cooling tip has become my new morning ritual. It wakes me up instantly and makes my makeup sit better.",
             "show_rating": true,
             "rating": 5
           }
@@ -637,7 +639,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Mia T. – Stockholm",
-            "content": "Honestly? I didn’t expect the quality to be this good. It feels solid, looks stylish, and fits all my stuff without being bulky.",
+            "content": "I noticed my dark circles fading in just over a week. Even my friends have commented on how much brighter my eyes look.",
             "show_rating": true,
             "rating": 5
           }
@@ -849,6 +851,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "matilda-suede-leather-tote",
