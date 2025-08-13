@@ -349,7 +349,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Designed for her.",
+        "text": "Designed for her. By her.",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
