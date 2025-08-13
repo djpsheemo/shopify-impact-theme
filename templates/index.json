@@ -173,6 +173,107 @@
         "heading_gradient": ""
       }
     },
+    "featured_product_YMcDRx": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_LNV8fA": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_UqCgBC": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_rWX7Jf": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_w7DQRy": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_qQQWnU": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_kbKWMD": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_XHBq7y": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_NHxxiT": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_XxrfLK": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_3EJjtU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_DkRCMB": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_LNV8fA",
+        "title_UqCgBC",
+        "badges_rWX7Jf",
+        "price_w7DQRy",
+        "rating_qQQWnU",
+        "separator_kbKWMD",
+        "description_XHBq7y",
+        "variant_picker_NHxxiT",
+        "quantity_selector_XxrfLK",
+        "buy_buttons_3EJjtU",
+        "pickup_availability_DkRCMB"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "squzzi-under-eye-anti-aging-gel",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -226,6 +327,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
@@ -939,6 +1041,7 @@
     "slideshow",
     "impact_text_DtXVpF",
     "image-link-blocks",
+    "featured_product_YMcDRx",
     "collection-list",
     "scrolling-text",
     "featured-collection",
