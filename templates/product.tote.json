@@ -354,6 +354,69 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "testimonials_p4QY3g": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hXX6rx": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/5_25741231-2328-4ab2-9639-896289654c6a.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emma, 29 - London, UK",
+            "title": "Best Purchase Ever",
+            "content": "<p>I’m a new mum and let’s just say sleep is… rare. I put this on after my morning coffee and my under-eyes instantly look less puffy. It feels so cold and refreshing, it actually wakes me up. Honestly can’t believe how much more awake I look in photos now.</p>"
+          }
+        },
+        "testimonial_tQ4geb": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/woman-portrait_XX8XAN3RK3_894fef89-030a-425d-bcbe-03b591e188db.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lauren, 34 – New York, USA",
+            "title": "Excellent!",
+            "content": "<p>I work night shifts and my eyes always give me away. This gel is the first thing I’ve found that actually works without feeling heavy. The cooling tip is genius — it’s like a mini eye massage. My concealer even sits better now.</p>"
+          }
+        },
+        "testimonial_BxMbPz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/2_583dde7c-2f87-4482-9c4d-ee127bd8465c.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Hannah, 31 – Manchester, UK",
+            "title": "Very easy to apply",
+            "content": "<p>I keep mine in the fridge for extra chill — total game changer. I travel a lot for work and this is the only thing that keeps my eyes from looking puffy after flights. Feels luxurious but takes literally 10 seconds to apply.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hXX6rx",
+        "testimonial_tQ4geb",
+        "testimonial_BxMbPz"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "images_with_text_scrolling_my8dPD": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -426,69 +489,6 @@
         "background": "#f2f2f2",
         "background_gradient": ""
       }
-    },
-    "testimonials_p4QY3g": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_hXX6rx": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/5_25741231-2328-4ab2-9639-896289654c6a.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Emma, 29 - London, UK",
-            "title": "Best Purchase Ever",
-            "content": "<p>I’m a new mum and let’s just say sleep is… rare. I put this on after my morning coffee and my under-eyes instantly look less puffy. It feels so cold and refreshing, it actually wakes me up. Honestly can’t believe how much more awake I look in photos now.</p>"
-          }
-        },
-        "testimonial_tQ4geb": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/woman-portrait_XX8XAN3RK3_894fef89-030a-425d-bcbe-03b591e188db.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Lauren, 34 – New York, USA",
-            "title": "Excellent!",
-            "content": "<p>I work night shifts and my eyes always give me away. This gel is the first thing I’ve found that actually works without feeling heavy. The cooling tip is genius — it’s like a mini eye massage. My concealer even sits better now.</p>"
-          }
-        },
-        "testimonial_BxMbPz": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/2_583dde7c-2f87-4482-9c4d-ee127bd8465c.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Hannah, 31 – Manchester, UK",
-            "title": "Very easy to apply",
-            "content": "<p>I keep mine in the fridge for extra chill — total game changer. I travel a lot for work and this is the only thing that keeps my eyes from looking puffy after flights. Feels luxurious but takes literally 10 seconds to apply.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_hXX6rx",
-        "testimonial_tQ4geb",
-        "testimonial_BxMbPz"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -499,7 +499,7 @@
     "images_with_text_scrolling_4HKffJ",
     "17549228138a3631b9",
     "images_with_text_scrolling_my8dPD",
-    "slideshow_e6gdUK",
-    "testimonials_p4QY3g"
+    "testimonials_p4QY3g",
+    "slideshow_e6gdUK"
   ]
 }
