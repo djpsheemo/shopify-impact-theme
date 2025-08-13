@@ -50,6 +50,10 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "essential_estimated_delivery_app_block_tY64xt": {
+          "type": "shopify://apps/essential-estimated-delivery/blocks/app-block/02a895dd-b5b5-4103-8966-c6914aa8309e",
+          "settings": {}
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -161,6 +165,7 @@
         "price",
         "rating",
         "payment_terms",
+        "essential_estimated_delivery_app_block_tY64xt",
         "separator",
         "variant_picker",
         "quantity_selector",
