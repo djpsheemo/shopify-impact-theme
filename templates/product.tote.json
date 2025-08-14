@@ -23,6 +23,19 @@
             "heading_tag": "h2"
           }
         },
+        "text_WfLcYE": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Deals with puffiness, dark circles, fatigue-related under-eyes</p><p>Real Korean Formula</p><p>Lightweight, Easy to use on the go</p><p></p>"
+          }
+        },
+        "liquid_z3fzGm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p style=\"font-size: 17px; line-height: 1.2;\">💙 Targets puffiness, dark circles, and tired under-eyes</p></br>\n<p style=\"font-size: 17px; line-height: 1.2;\">💙 Real Korean Formula </p></br>\n<p style=\"font-size: 17px; line-height: 1.2;\">💙 Lightweight, Easy to Use on the Go</p>"
+          }
+        },
         "liquid_f9R7ei": {
           "type": "liquid",
           "settings": {
@@ -160,6 +173,8 @@
       "block_order": [
         "vendor",
         "title",
+        "text_WfLcYE",
+        "liquid_z3fzGm",
         "liquid_f9R7ei",
         "badges",
         "price",
