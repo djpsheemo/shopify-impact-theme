@@ -63,10 +63,6 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -81,6 +77,17 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
         },
         "liquid_EtFmDq": {
           "type": "liquid",
@@ -114,16 +121,9 @@
             "text_color": "#d22727"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
+        "separator": {
+          "type": "separator",
+          "settings": {}
         },
         "essential_estimated_delivery_app_block_tY64xt": {
           "type": "shopify://apps/essential-estimated-delivery/blocks/app-block/02a895dd-b5b5-4103-8966-c6914aa8309e",
@@ -180,13 +180,13 @@
         "price",
         "rating",
         "payment_terms",
-        "separator",
         "variant_picker",
         "quantity_selector",
+        "buy_buttons",
         "liquid_EtFmDq",
         "offer_8FR38E",
         "offer_z6hmWr",
-        "buy_buttons",
+        "separator",
         "essential_estimated_delivery_app_block_tY64xt",
         "liquid_tXCF4G",
         "description",
