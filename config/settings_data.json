@@ -39,11 +39,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "13768625480086291342": {
-        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
-        "disabled": false,
-        "settings": {}
-      },
       "8670728856252544919": {
         "type": "shopify://apps/essential-estimated-delivery/blocks/app-embed/02a895dd-b5b5-4103-8966-c6914aa8309e",
         "disabled": false,
@@ -57,6 +52,11 @@
       "6478312753674380289": {
         "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
         "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": true,
         "settings": {}
       }
     }
