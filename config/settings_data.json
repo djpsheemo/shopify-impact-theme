@@ -44,11 +44,6 @@
         "disabled": false,
         "settings": {}
       },
-      "6478312753674380289": {
-        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
-        "disabled": false,
-        "settings": {}
-      },
       "8670728856252544919": {
         "type": "shopify://apps/essential-estimated-delivery/blocks/app-embed/02a895dd-b5b5-4103-8966-c6914aa8309e",
         "disabled": false,
@@ -56,6 +51,11 @@
       },
       "7609861849053656801": {
         "type": "shopify://apps/orichi-bundle/blocks/volume_discount/831adfc0-6cab-4c9a-9951-63aaa6f4e791",
+        "disabled": false,
+        "settings": {}
+      },
+      "6478312753674380289": {
+        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
         "disabled": false,
         "settings": {}
       }
