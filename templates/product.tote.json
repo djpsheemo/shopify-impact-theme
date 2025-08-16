@@ -244,6 +244,40 @@
         "heading_gradient": ""
       }
     },
+    "17549228138a3631b9": {
+      "type": "apps",
+      "blocks": {
+        "vdo_product_video_feed_product_slider_MyiT3T": {
+          "type": "shopify://apps/vdo-product-video-feed/blocks/product_slider/1e74be18-998c-485a-b3b8-24516a63388a",
+          "settings": {
+            "section_heading": "Don't Trust Us? Trust Other People!",
+            "video_height": 350,
+            "gap_between_videos": 15,
+            "video_url1": "shopify://files/videos/snaptik_7491481979704118558.mp4",
+            "video_url2": "shopify://files/videos/snaptik_7480953406115417387.mp4",
+            "video_url3": "shopify://files/videos/snaptik_7455828031827905835.mp4",
+            "video_url4": "shopify://files/videos/snaptik_7406022000415624478.mp4",
+            "video_url5": "shopify://files/videos/snaptik_7444278086926880046.mp4"
+          }
+        }
+      },
+      "block_order": [
+        "vdo_product_video_feed_product_slider_MyiT3T"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "slideshow_9xWawR": {
       "type": "slideshow",
       "blocks": {
@@ -340,40 +374,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "17549228138a3631b9": {
-      "type": "apps",
-      "blocks": {
-        "vdo_product_video_feed_product_slider_MyiT3T": {
-          "type": "shopify://apps/vdo-product-video-feed/blocks/product_slider/1e74be18-998c-485a-b3b8-24516a63388a",
-          "settings": {
-            "section_heading": "Don't Trust Us? Trust Other People!",
-            "video_height": 350,
-            "gap_between_videos": 15,
-            "video_url1": "shopify://files/videos/snaptik_7491481979704118558.mp4",
-            "video_url2": "shopify://files/videos/snaptik_7480953406115417387.mp4",
-            "video_url3": "shopify://files/videos/snaptik_7455828031827905835.mp4",
-            "video_url4": "shopify://files/videos/snaptik_7406022000415624478.mp4",
-            "video_url5": "shopify://files/videos/snaptik_7444278086926880046.mp4"
-          }
-        }
-      },
-      "block_order": [
-        "vdo_product_video_feed_product_slider_MyiT3T"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     },
     "images_with_text_scrolling_my8dPD": {
@@ -516,10 +516,10 @@
   "order": [
     "main",
     "images_with_text_scrolling_UKYgJJ",
+    "17549228138a3631b9",
     "slideshow_9xWawR",
     "before_after_image_rBDgYE",
     "images_with_text_scrolling_4HKffJ",
-    "17549228138a3631b9",
     "images_with_text_scrolling_my8dPD",
     "testimonials_p4QY3g",
     "slideshow_e6gdUK"
