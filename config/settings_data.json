@@ -9,57 +9,57 @@
  */
 {
   "current": {
-    "section_vertical_spacing": "medium",
-    "button_border_radius": 60,
-    "input_border_radius": 8,
+    "background": "#ffffff",
     "block_border_radius": 24,
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
-    "background": "#ffffff",
-    "text_color": "#1a1a1a",
-    "header_background": "#ffffff",
-    "header_text_color": "#1a1a1a",
-    "footer_background": "#ffffff",
-    "footer_text_color": "#1a1a1a",
-    "primary_button_background": "#1a1a1a",
-    "primary_button_text_color": "#ffffff",
-    "secondary_button_background": "#659dd2",
-    "secondary_button_text_color": "#ffffff",
-    "product_card_text_color": "#1a1a1a",
-    "product_primary_badge_background": "#803cee",
-    "heading_font": "din_next_n7",
-    "heading_font_size": "large",
-    "heading_letter_spacing": -2,
-    "text_font": "din_next_n4",
-    "show_page_transition": true,
-    "heading_apparition": "split_fade",
-    "product_color_display": "swatch",
-    "product_info_alignment": "start",
+    "blocks": {
+      "13768625480086291342": {
+        "disabled": true,
+        "settings": {},
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a"
+      },
+      "6478312753674380289": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
+      },
+      "7609861849053656801": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/orichi-bundle/blocks/volume_discount/831adfc0-6cab-4c9a-9951-63aaa6f4e791"
+      },
+      "8670728856252544919": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/essential-estimated-delivery/blocks/app-embed/02a895dd-b5b5-4103-8966-c6914aa8309e"
+      }
+    },
+    "button_border_radius": 60,
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
-    "blocks": {
-      "8670728856252544919": {
-        "type": "shopify://apps/essential-estimated-delivery/blocks/app-embed/02a895dd-b5b5-4103-8966-c6914aa8309e",
-        "disabled": false,
-        "settings": {}
-      },
-      "7609861849053656801": {
-        "type": "shopify://apps/orichi-bundle/blocks/volume_discount/831adfc0-6cab-4c9a-9951-63aaa6f4e791",
-        "disabled": false,
-        "settings": {}
-      },
-      "6478312753674380289": {
-        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
-        "disabled": false,
-        "settings": {}
-      },
-      "13768625480086291342": {
-        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
-        "disabled": true,
-        "settings": {}
-      }
-    }
+    "footer_background": "#ffffff",
+    "footer_text_color": "#1a1a1a",
+    "header_background": "#ffffff",
+    "header_text_color": "#1a1a1a",
+    "heading_apparition": "split_fade",
+    "heading_font": "din_next_n7",
+    "heading_font_size": "large",
+    "heading_letter_spacing": -2,
+    "input_border_radius": 8,
+    "primary_button_background": "#1a1a1a",
+    "primary_button_text_color": "#ffffff",
+    "product_card_text_color": "#1a1a1a",
+    "product_color_display": "swatch",
+    "product_info_alignment": "start",
+    "product_primary_badge_background": "#803cee",
+    "secondary_button_background": "#659dd2",
+    "secondary_button_text_color": "#ffffff",
+    "section_vertical_spacing": "medium",
+    "show_page_transition": true,
+    "text_color": "#1a1a1a",
+    "text_font": "din_next_n4"
   },
   "presets": {
     "Home": {

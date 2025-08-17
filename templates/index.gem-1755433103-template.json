@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/relaxed-in-orange.jpg",
-            "mobile_image": "shopify://shop_images/relaxed-in-orange_965fca71-c9cb-491c-abef-f0747186bdf7.jpg",
+            "image": "shopify:\/\/shop_images\/relaxed-in-orange.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/relaxed-in-orange_965fca71-c9cb-491c-abef-f0747186bdf7.jpg",
             "content_max_width": 660,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -295,7 +295,7 @@
           "type": "collection",
           "settings": {
             "collection": "clothing",
-            "image": "shopify://shop_images/4b12a51e0c4d266cef2096991a231ad9.jpg",
+            "image": "shopify:\/\/shop_images\/4b12a51e0c4d266cef2096991a231ad9.jpg",
             "subheading": "Coming soon.",
             "title": "",
             "url": "",
@@ -310,7 +310,7 @@
           "type": "collection",
           "settings": {
             "collection": "jewelry",
-            "image": "shopify://shop_images/choker-with-bead.jpg",
+            "image": "shopify:\/\/shop_images\/choker-with-bead.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -441,7 +441,7 @@
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>Welcome to Squzzi — fashion made to feel like home.</h4>"
+            "content": "<h4>Welcome to Squzzi — fashion made to feel like home.<\/h4>"
           }
         }
       },
@@ -456,7 +456,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/women-in-vintage-style-clothes-explore.jpg",
+        "image": "shopify:\/\/shop_images\/women-in-vintage-style-clothes-explore.jpg",
         "mobile_text_position": "place-self-center-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
@@ -574,8 +574,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Before\/after",
+        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -676,7 +676,7 @@
             "vertical_position_mobile": 70,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "content": "<p>Share useful information about your product features.<\/p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -688,7 +688,7 @@
             "vertical_position_mobile": 14,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "content": "<p>Share useful information about your product features.<\/p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -700,7 +700,7 @@
             "vertical_position_mobile": 75,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "content": "<p>Share useful information about your product features.<\/p>"
           }
         }
       },
@@ -741,7 +741,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
             "button_url": "",
             "button_text": ""
           }
@@ -752,7 +752,7 @@
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
             "button_url": "",
             "button_text": ""
           }
@@ -902,10 +902,10 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>Yes</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>No</p>",
-            "value_4": "<p>No</p>",
+            "value_1": "<p>Yes<\/p>",
+            "value_2": "<p>Yes<\/p>",
+            "value_3": "<p>No<\/p>",
+            "value_4": "<p>No<\/p>",
             "value_5": "",
             "value_6": "",
             "value_7": "",
@@ -930,10 +930,10 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>No</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>Yes</p>",
-            "value_4": "<p>No</p>",
+            "value_1": "<p>No<\/p>",
+            "value_2": "<p>Yes<\/p>",
+            "value_3": "<p>Yes<\/p>",
+            "value_4": "<p>No<\/p>",
             "value_5": "",
             "value_6": "",
             "value_7": "",
@@ -965,7 +965,7 @@
         "full_width": true,
         "subheading": "Compare",
         "title": "Product specification",
-        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
+        "content": "<p>Give your customers useful information about your products and showcase differences between them.<\/p>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
@@ -994,21 +994,21 @@
           "type": "item",
           "settings": {
             "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 2-3 business days to arrive. Overseas deliveries can take anywhere from 5-6 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>It depends on where you are. Orders processed here will take 2-3 business days to arrive. Overseas deliveries can take anywhere from 5-6 days. Delivery details will be provided in your confirmation email.<\/p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
           }
         }
       },
@@ -1021,7 +1021,7 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Frequently Asked Questions by our precious customers.</p>",
+        "content": "<p>Frequently Asked Questions by our precious customers.<\/p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
